@@ -5,13 +5,25 @@
 Based on Stack Overflow Developer Survey 2020, dataset were investigated.
 
 - How does industry wise trends look for programing languages ?
-- How is Language satisfaction ?
+- How is Language satisfaction among developers ?
 - Which all languages are rising as an alternative to most popular ones ?
 
-## File Description
+## File Tree
 
-- A Descriptive Jupyter Notebook
-- Stack Overflow dataset
+```
+├── README.md
+├── data
+│   ├── survey_results_public.csv
+│   └── survey_results_schema.csv
+├── main.ipynb
+└── scripts.py
+
+```
+[data]('./data) : Folder contains dataset from stack overflow
+
+[main.ipynb]('./main.ipynb) : Jupyter Notebook
+
+[scripts.py]('./scripts.py) : Helpful functions for Notebook
 
 ## Results
 

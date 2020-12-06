@@ -41,7 +41,7 @@ desired_columns = [
     "OrgSize",
 ]
 
-
+# This function splits out multiple entries in specified column & returns splitted data
 def clean_series(df, col_name, ret_col_name, rel_count_col_name):
     """
     inputs:
