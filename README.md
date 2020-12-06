@@ -28,7 +28,7 @@ Based on Stack Overflow Developer Survey 2020, dataset were investigated.
 
 ## Results
 
-Results and discussion were published on Medium: [This will make you rethink the Programming Language of the year
+Results and discussions were published on Medium: [This will make you rethink the Programming Language of the year
 ](https://mkkhedawat.medium.com/this-will-make-you-rethink-the-programming-language-of-the-year-c84c3522eca6)
 
 ## References

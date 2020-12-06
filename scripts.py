@@ -1,3 +1,7 @@
+"""
+Helpful functions for Notebook
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from collections import Counter
@@ -44,7 +48,7 @@ desired_columns = [
 # This function splits out multiple entries in specified column & returns splitted data
 def clean_series(df, col_name, ret_col_name, rel_count_col_name):
     """
-    inputs:
+    Inputs:
     df: dataframe which you want to manipulate
     col_name: name of the column which you want to clean the data
     ret_col_name: name of the column which you want to set after cleaning the data
