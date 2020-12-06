@@ -19,11 +19,11 @@ Based on Stack Overflow Developer Survey 2020, dataset were investigated.
 └── scripts.py
 
 ```
-[data]('./data) : Folder contains dataset from stack overflow
+[data](./data) : Folder contains dataset from stack overflow
 
-[main.ipynb]('./main.ipynb) : Jupyter Notebook
+[main.ipynb](./main.ipynb) : Jupyter Notebook
 
-[scripts.py]('./scripts.py) : Helpful functions for Notebook
+[scripts.py](./scripts.py) : Helpful functions for Notebook
 
 ## Results
 
